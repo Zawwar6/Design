@@ -649,6 +649,7 @@ footer {
 .footer-logo span {
   font-size: 24px;
   font-weight: bold;
+   margin-left: 40px;
 }
 
 .footer-links {
